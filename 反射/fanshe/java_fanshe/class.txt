@@ -1,0 +1,2 @@
+className = com.wyclass.test01.Student
+methodName=study
